@@ -5,11 +5,10 @@ This is a modified grayscale theme based on the [Jekyll theme](http://jeromelach
 
 The additions involve some design around formatting content.
 
-I added two main classes for displaying content:
+I added three main classes:
 * A .vert-element class to display content in a vertical fashion (like job history for a cv section)
 * A .horz-element class to display content horizontally across the page. I use this for more text heavy content.
-
-I also added an .alt-bkg class which gives a "section" a gray background. I use it in an alternating fashion to give contrast between sections.
+* An .alt-bkg class which gives a "section" a gray background. I use it in an alternating fashion to give contrast between sections.
 
 ## Demo
 [View this jekyll theme in action here](https://ajleonardi.github.io/grayscale-theme)
