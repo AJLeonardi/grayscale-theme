@@ -427,3 +427,7 @@ body {
 .horz-element>h3{
   /*margin-bottom:0px;*/
 }
+
+code{
+  background-color: #222222;
+}
